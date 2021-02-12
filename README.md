@@ -14,9 +14,9 @@ and vice versa.
 - Pycairo 1.20.0
 
 ## Input File Requirements
-- Sequence file: this program requires the input sequence file to be of type FASTA, 
+- **Sequence file**: this program requires the input sequence file to be of type FASTA, 
 with 1 exon (capitalized nucleotides) and flanking introns (lowercase)
-- Motif file: a text file containing up to 5 motif sequences separated by line
+- **Motif file**: a text file containing up to 5 motif sequences separated by line
 
 ## Arguments
 The following arguments are required for running the program:
