@@ -31,5 +31,5 @@ motif sequences on each gene; options are 'basic' (default; used when this argum
 called), 'earth', and 'colorblind_friendly'
 
 ## Example Output
-![basic](https://github.com/bwinnacott/motif-mark/blob/main/Figure_1.pdf)
+![basic](https://github.com/bwinnacott/motif-mark/blob/main/Figure_1.png)
 
