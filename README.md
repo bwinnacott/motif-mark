@@ -22,7 +22,7 @@ with 1 exon (capitalized nucleotides) and flanking introns (lowercase)
 The following arguments are required for running the program:
 - ```-f```, ```--fa_file```: specifies absolute path to input FASTA file containing gene 
 sequences
-- ```-m```, ```--motif_file```: specifies absolute path to input motif sequence file
+- ```-m```, ```--motif_file```: specifies absolute path to input motif sequence file (.txt)
 - ```-o```, ```--output_type```: type of image output desired; choices are 'png', 'svg', 
 and 'pdf'
 
