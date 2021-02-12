@@ -4,9 +4,10 @@
 This tool provides a visualization of motif sequences on gene sequences containing 
 one exon and flanking introns. The current build can handle only gene sequences that 
 have the exon denoted by capital nucleotides and the introns by lowercase nucleotides. 
-All IUPAC degenerate base symbols are considered in the motif sequences when locating 
-matches in the gene sequence. Additionally, this tool can handle RNA motif sequences 
-mapping to DNA gene sequences and vice versa. 
+All IUPAC degenerate base symbols (https://en.wikipedia.org/wiki/Nucleic_acid_notation) 
+are considered in the motif sequences when locating matches in the gene sequence. 
+Additionally, this tool can handle RNA motif sequences mapping to DNA gene sequences 
+and vice versa. 
 
 ## Requirements
 - Python 3.6+
@@ -32,4 +33,3 @@ called), 'earth', and 'colorblind_friendly'
 
 ## Example Output
 ![basic](https://github.com/bwinnacott/motif-mark/blob/main/Figure_1.png)
-
